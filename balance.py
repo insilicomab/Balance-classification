@@ -2,7 +2,7 @@
 """
 Created on Mon Jan 25 15:34:58 2021
 
-@author: mi-nakada
+@author: m-lin
 """
 
 # ライブラリの読み込み
